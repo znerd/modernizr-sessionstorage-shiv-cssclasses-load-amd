@@ -4,7 +4,7 @@
   <groupId>org.znerd</groupId>
   <artifactId>modernizr-sessionstorage-shiv-cssclasses-load-amd</artifactId>
   <packaging>pom</packaging>
-  <version>2.6.1.001</version>
+  <version>2.6.1.002-SNAPSHOT</version>
 
   <name>Modernizr AMD Library with Session Storage, Shiv, CSS classes and Load options</name>
   <description>Modernizr AMD library with AMD wrapper</description>
@@ -30,7 +30,7 @@
     <connection>scm:git:git@github.com:znerd/modernizr-sessionstorage-shiv-cssclasses-load-amd.git</connection>
     <developerConnection>scm:git:git@github.com:znerd/modernizr-sessionstorage-shiv-cssclasses-load-amd.git</developerConnection>
     <url>git@github.com:znerd/modernizr-sessionstorage-shiv-cssclasses-load-amd.git</url>
-    <tag>modernizr-sessionstorage-shiv-cssclasses-load-amd-2.6.1.001</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <issueManagement>
